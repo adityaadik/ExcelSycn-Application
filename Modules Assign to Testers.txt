@@ -7,7 +7,7 @@ Module A)  - Excel File Testing (BOQ file)                                    -M
 
 
 
-Module B) - Email Trigger Testing                                             - Shruti
+Module B) - Email Trigger Testing                                             - Shruti and Mayur
 ➡ Whether mail goes with correct values after saving Excel
 ➡ Proper subject line, attachment, format
 
@@ -45,3 +45,4 @@ Missing bidder
 Invalid subject
 Special characters
 Blank fields
+
