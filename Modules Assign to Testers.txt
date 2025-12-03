@@ -1,7 +1,7 @@
 Modules Assign to Testers
 
 
-Module A) - Excel File Testing (BOQ file)                                   - Mayur
+Module A)  - Excel File Testing (BOQ file)                                    -Mayur                                  
 (Test all fields: bidder, subject, percentage, discount)
 ➡ Data correctness, formulas, validations
 
@@ -12,14 +12,12 @@ Module B) - Email Trigger Testing                                             - 
 ➡ Proper subject line, attachment, format
 
 
-Module C) – Google Sheet Sync Testing                                  -  Shruti          
+Module C) – Google Sheet Sync Testing                                        -  Shruti          
 3 sheets:
 
 Sheet 1 – Mail List
 Sheet 2 – Bidder Data
-Sheet 3 – Detailed Info
-➡ Check mapping, no mismatch
-
+Sheet 3 – Subjects and Titals list
 
 
 
@@ -33,15 +31,13 @@ Module D) – Frontend Web App Testing                                 - Karishm
 
 
 
-Module E) – Integration Testing                                         - Sandesh
+Module E) – Integration Testing                                       - Sandesh
 Full flow:-
 Excel → Email → Google Sheet → Frontend
 
 
 
-
-
-Module F)  – Google sheet UI and Negative Testing            - Milind
+Module F)  – Google sheet UI and Negative Testing                    - Milind
 Example:
 
 Wrong percentage
