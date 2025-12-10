@@ -12,16 +12,18 @@ Module B) - Email Trigger Testing                                             - 
 ➡ Proper subject line, attachment, format
 
 
-Module C) – Google Sheet Sync Testing                                        -  Shruti         Status - Working 
+Module C) – Google Sheet Sync Testing                                        -  Shruti         Status - Completed
 3 sheets:
 
 Sheet 1 – Mail List
 Sheet 2 – Bidder Data
 Sheet 3 – Subjects and Titals list
 
+V3 BOQ File (Delete and Insert) - Google Sheet Sync Testing                                   - Shruti
 
 
-Module D) – Frontend Web App Testing                                 - Karishma, Puja and Ayush         status - Working
+
+Module D) – Frontend Web App Testing                                 - Karishma, Puja and Ayush         status - Completed
 
 #Login
 #Select Active Title
@@ -45,5 +47,6 @@ Missing bidder
 Invalid subject
 Special characters
 Blank fields
+
 
 
